@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "105651501493",
+    "firebase_url": "https://socialcops-adba0.firebaseio.com",
+    "project_id": "socialcops-adba0",
+    "storage_bucket": "socialcops-adba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105651501493:android:e0fca89a3bbb3bef",
+        "android_client_info": {
+          "package_name": "com.example.android.socialcops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105651501493-rmn41rgapp33p4irmc94tc62e36leasm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAucdpis8zqyyuDN-NYbVb4YkGom0Yb0G8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
